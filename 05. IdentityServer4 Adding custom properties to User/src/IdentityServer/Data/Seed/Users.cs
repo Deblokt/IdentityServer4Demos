@@ -40,7 +40,8 @@ namespace IdentityServer.Data.Seed
                         {
                             UserName = "alice",
                             Email = "AliceSmith@email.com",
-                            EmailConfirmed = true
+                            EmailConfirmed = true,
+                            IsEnabled = true
                         };
                         var result = userMgr.CreateAsync(alice, "My long 123$ password").Result;
                         if (!result.Succeeded)
@@ -75,7 +76,8 @@ namespace IdentityServer.Data.Seed
                         {
                             UserName = "bob",
                             Email = "BobSmith@email.com",
-                            EmailConfirmed = true
+                            EmailConfirmed = true,
+                            IsEnabled = true
                         };
                         var result = userMgr.CreateAsync(bob, "My long 123$ password").Result;
                         if (!result.Succeeded)
