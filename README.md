@@ -11,9 +11,9 @@ All published tutorials can be found at [deblokt.com](https://deblokt.com)
 4. IdentityServer4 ASP.NET Core Identity (PART 1, PART 2, PART 3)
 5. IdentityServer4 Adding custom properties to User
 6. IdentityServer4 External providers (Azure AD, Okta)
+7. IdentityServer4 MFA - TOTP (Google Authenticator)
 
 ###### TODO
-7. IdentityServer4 MFA - TOTP (Google Authenticator)
 8. IdentityServer4 MFA - FIDO2 (YubiKey 5)
 9. IdentityServer4 Production ready
 10. IdentityServer4 Docker
@@ -21,3 +21,4 @@ All published tutorials can be found at [deblokt.com](https://deblokt.com)
 12. Client Web Api Example (Bearer token)
 13. Client JavaScript SPA Example (Authorization Code PKCE)
 14. Client MVC Example (Hybrid)
+15. Update to .NET Core 3.0
