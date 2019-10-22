@@ -12,9 +12,9 @@ All published tutorials can be found at [deblokt.com](https://deblokt.com)
 5. [IdentityServer4 Adding custom properties to User](https://deblokt.com/2019/09/27/05-identityserver4-adding-custom-properties-to-user)
 6. [IdentityServer4 External providers (Azure AD, Okta)](https://deblokt.com/2019/09/30/06-identityserver4-external-providers)
 7. [IdentityServer4 MFA - TOTP (Google Authenticator)](https://deblokt.com/2019/10/09/07-identityserver4-mfa-totp)
+8. IdentityServer4 MFA - FIDO2 (YubiKey 5)
 
 ###### Todo
-8. IdentityServer4 MFA - FIDO2 (YubiKey 5)
 9. IdentityServer4 Production ready
 10. IdentityServer4 Docker
 11. IdentityServer4 Admin UI (Skoruba)
