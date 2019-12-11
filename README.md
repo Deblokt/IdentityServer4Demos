@@ -12,13 +12,14 @@ All published tutorials can be found at [deblokt.com](https://deblokt.com)
 5. [IdentityServer4 Adding custom properties to User](https://deblokt.com/2019/09/27/05-identityserver4-adding-custom-properties-to-user)
 6. [IdentityServer4 External providers (Azure AD, Okta)](https://deblokt.com/2019/09/30/06-identityserver4-external-providers)
 7. [IdentityServer4 MFA - TOTP (Google Authenticator)](https://deblokt.com/2019/10/09/07-identityserver4-mfa-totp)
-8. [IdentityServer4 MFA - FIDO2 (YubiKey 5)](https://deblokt.com/2019/10/21/08-identityserver4-mfa-fido2-yubikey-5)
+8. IdentityServer4 MFA - FIDO2 (YubiKey 5) ([PART 1](https://deblokt.com/2019/10/21/08-identityserver4-mfa-fido2-yubikey-5), [PART 2](https://deblokt.com/2019/12/11/08-part-2-identityserver4-mfa-fido2-yubikey-5))
 
 ###### Todo
-9. IdentityServer4 Production ready
-10. IdentityServer4 Docker
-11. IdentityServer4 Admin UI (Skoruba)
-12. Client Web Api Example (Bearer token)
-13. Client JavaScript SPA Example (Authorization Code PKCE)
-14. Client MVC Example (Hybrid)
-15. Update to .NET Core 3.0
+9. IdentityServer4 Passwordless - FIDO2 (YubiKey 5)
+10. Update to .NET Core 3.1 and "SameSite" cookie fix
+11. IdentityServer4 Production ready
+12. IdentityServer4 Docker
+13. IdentityServer4 Admin UI (Skoruba)
+14. Client Web Api Example (Bearer token)
+15. Client JavaScript SPA Example (Authorization Code PKCE)
+16. Client MVC Example (Hybrid)
