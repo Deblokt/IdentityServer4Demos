@@ -1,4 +1,7 @@
 # IdentityServer4 Demos
+
+## OBSOLETE: These demos are using .NET Core 2.1. Check out [new repository](https://github.com/Deblokt/IdentityServer4Demos.NETCore31) for IdentityServer4 demos using .NET Core 3.1.
+
 This repository contains demo projects for IdentityServer4. To learn how to create these projects yourself you can use my zero to production-ready step-by-step tutorials and client app examples.
 
 ## Tutorials
@@ -16,10 +19,9 @@ All published tutorials can be found at [deblokt.com](https://deblokt.com)
 
 ###### Todo
 9. IdentityServer4 Passwordless - FIDO2 (YubiKey 5)
-10. Update to .NET Core 3.1 and "SameSite" cookie fix
-11. IdentityServer4 Production ready
-12. IdentityServer4 Docker
-13. IdentityServer4 Admin UI (Skoruba)
-14. Client Web Api Example (Bearer token)
-15. Client JavaScript SPA Example (Authorization Code PKCE)
-16. Client MVC Example (Hybrid)
+10. IdentityServer4 Production ready
+11. IdentityServer4 Docker
+12. IdentityServer4 Admin UI (Skoruba)
+13. Client Web Api Example (Bearer token)
+14. Client JavaScript SPA Example (Authorization Code PKCE)
+15. Client MVC Example (Hybrid)
